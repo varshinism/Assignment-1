@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html, body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Lora', serif;
+}
+
+.container {
+    max-width: 321px!important;
+    padding: 20px;
+    border: 2px solid rgba(0, 0, 0, 0.637);
+    border-radius: 10px;
+    background-color: whitesmoke;
+    align-items: center!important;
+}
+.button{
+  background-color: black;
+  color: white;
+  width: 66px;
+  padding: 20px;
+  cursor: pointer;
+  margin: 2px;
+  border: 0px;
+}
+
+.input{
+    width: 217px;
+    padding: 20px 5px;
+    border: 1px solid black;
+}
+
+.colr {
+    background-color: gray;
+}
